@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/zezo7amaad">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=730&text=Hello!%20I'm%20Abdelaziz" alt="Hello! I&#39;m Abdelaziz" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=730&text=Hello!%20I'm%20Abdelaziz" alt="Hello! I&#39;m Abdelaziz" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=CEH%2C%20eWPTX%2C%20and%20eMAPT%20certified%2C%20with%20dual%20B.S.%20degrees%20in%20Cybersecurity." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=CEH%2C%20eWPTX%2C%20and%20eMAPT%20certified%2C%20with%20dual%20B.S.%20degrees%20in%20Cybersecurity." alt="Typing headlines" />
 </p>
 
 ### About Me
@@ -52,14 +52,14 @@ CEH, eWPTX, and eMAPT-certified Junior Penetration Tester with dual B.S. degrees
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=zezo7amaad&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zezo7amaad&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=zezo7amaad&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=zezo7amaad&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=zezo7amaad&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=zezo7amaad&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ### Dev Quote
@@ -69,5 +69,4 @@ CEH, eWPTX, and eMAPT-certified Junior Penetration Tester with dual B.S. degrees
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/zezo7amaad">zezo7amaad</a></i></p>
-
+<p align="center"><i> From <a href="https://github.com/zezo7amaad">zezo7amaad</a></i></p>
